@@ -179,4 +179,25 @@ footer {
     background-color: #FFF8F3;
     margin-top: 100px;
     padding: 120px 200px;
+    gap: 100px;
+}
+.footer-colum {
+    width: 50%;
+}
+.social-links a {
+    margin-right: 25px;
+}
+.contact input[type="text"], input[type="email"], textarea {
+    display: block;
+    margin-bottom: 25px;
+    padding: 18px 35px;
+    color: #757575;
+    border-radius: 5px;
+    border: 0px;
+    background: #FFF;
+    width: 100%;
+}
+.resize {
+    width: 24px;
+    height: 24px;
 }
